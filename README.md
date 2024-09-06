@@ -1,3 +1,2 @@
-# Arduino-Car-Simulator-Win-Forms-Display
-
-Simulating a car using arduino uno & arduino rich shield with win forms display.
+# Arduino Car Simulator
+Simulating a car using arduino uno & arduino rich shield. The car display is built using Windows Form Application.
